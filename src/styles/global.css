@@ -7,8 +7,8 @@
     --text-light: #1e1e2e; 
     --text-link: #78c2ad;
     --underline: #375a7f;
-    --header: 'Pacifico', cursive;
-    --body: 'Josefin Sans', sans-serif; 
+    --header: 'Pacifico', '仿宋';
+    --body: 'Josefin Sans', '黑体'; 
 }
 
 html {
