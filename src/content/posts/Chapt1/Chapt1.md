@@ -77,4 +77,3 @@ A机器上有一个C语言的编译器，是否可利用此编译实现B机器�
 
 ## 图片示例
 ![alt text](assets/image.png)
-
